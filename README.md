@@ -21,4 +21,7 @@ Dr. Thom Dunning et.al, who constructed the corelation consistent basis sets for
 This page would be helpful for quantum chemistry researchers and lecturers alike. Now, enjoy exploring! 
 
 
-
+Citations:  
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
