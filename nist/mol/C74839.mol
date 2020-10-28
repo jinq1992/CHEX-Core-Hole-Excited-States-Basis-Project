@@ -1,0 +1,62 @@
+Methane, bromo-
+  NIST    06201314153D 1   1.00000 -2611.61666
+Copyright by the U.S. Sec. Commerce on behalf of U.S.A. All rights reserved.
+  5  4  0  0  0  0  0  0  0  0999 V2000
+    0.0161    0.9833   -0.0068 H    0  0  0  0  0  0  0  0  0  0  0  0
+    1.1040    0.9999    0.0222 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4826    2.0199   -0.0067 H    0  0  0  0  0  0  0  0  0  0  0  0
+    1.4821    0.4648    0.8912 H    0  0  0  0  0  0  0  0  0  0  0  0
+    1.7587    0.0733   -1.5820 Br   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  2  5  1  0
+M  END
+> <COPYRIGHT>
+Collection (C) 2016 copyright by the U.S. Secretary of Commerce on behalf of the United States of America. All rights reserved.
+
+> <DATE>
+2013-06-20
+
+> <CAS.NUMBER>
+74-83-9
+
+> <SYNONYMS>
+Methane, bromo-
+1-Bromomethane
+Brom-O-Gas
+Bromomethane
+
+> <METHOD>
+B3LYP/6-31G*
+
+> <DIPOLE.MOMENT>
+1.9379 debye
+
+> <ELECTRONIC.ENERGY>
+-2611.61665807 hartree
+
+> <IR.FREQUENCIES>
+"Frequency (cm-1)"   "Intensity (km/mol)"
+592.3248  13.9742
+970.5744  5.9130
+970.7611  5.9153
+1355.1496  27.6349
+1506.3899  5.3240
+1506.7321  5.3167
+3108.0778  16.0205
+3217.5266  3.5732
+3217.9460  3.5804
+
+> <ROTATIONAL.CONSTANTS>
+155.50593 GHz
+9.36351 GHz
+9.36345 GHz
+
+> <SOFTWARE>
+Gaussian 09, Revision D.01
+
+> <CONTRIBUTOR>
+Michael Liou
+
+$$$$

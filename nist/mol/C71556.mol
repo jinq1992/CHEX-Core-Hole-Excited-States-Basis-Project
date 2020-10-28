@@ -1,0 +1,71 @@
+
+  NIST    07011509333D 1   1.00000 -1458.59900
+Copyright by the U.S. Sec. Commerce on behalf of U.S.A. All rights reserved.
+  8  7  0  0  0  0  0  0  0  0999 V2000
+    2.5882    2.5806    2.4516 C    0  0  0  0  0  0  0  0  0  0  0  0
+    1.6766    1.6235    1.7009 C    0  0  0  0  0  0  0  0  0  0  0  0
+    2.1484    1.5602   -0.0410 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.0373    2.1785    1.8249 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8090   -0.0341    2.4053 Cl   0  0  0  0  0  0  0  0  0  0  0  0
+    2.5018    3.5810    2.0204 H    0  0  0  0  0  0  0  0  0  0  0  0
+    2.2963    2.6119    3.5042 H    0  0  0  0  0  0  0  0  0  0  0  0
+    3.6227    2.2378    2.3711 H    0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+M  END
+> <COPYRIGHT>
+Collection (C) 2016 copyright by the U.S. Secretary of Commerce on behalf of the United States of America. All rights reserved.
+
+> <DATE>
+2015-07-01
+
+> <CAS.NUMBER>
+71-55-6
+
+> <METHOD>
+B3LYP/6-31G*
+
+> <DIPOLE.MOMENT>
+1.9915 debye
+
+> <ELECTRONIC.ENERGY>
+-1458.59899803 hartree
+
+> <IR.FREQUENCIES>
+"Frequency (cm-1)"   "Intensity (km/mol)"
+239.8551  0.1893
+240.1235  0.1808
+315.6770  0.0003
+345.3118  1.9505
+345.3942  1.9881
+345.8808  1.5892
+518.9695  13.6153
+688.7692  145.7644
+690.1569  145.4198
+1079.5646  22.1164
+1117.9465  60.5049
+1118.3308  60.6767
+1441.9756  7.3239
+1508.1178  3.1981
+1508.6030  3.1850
+3081.8116  2.2548
+3167.5663  3.2662
+3168.3736  3.2694
+
+> <ROTATIONAL.CONSTANTS>
+2.31320 GHz
+2.31308 GHz
+1.65489 GHz
+
+> <SOFTWARE>
+Gaussian 09, Revision D.01
+
+> <CONTRIBUTOR>
+Avi Newman
+
+$$$$
