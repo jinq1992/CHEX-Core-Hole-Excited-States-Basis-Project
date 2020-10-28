@@ -15,7 +15,7 @@ The project is divided into the following folders:
 
 4.Examples (Tutorial style notebooks with full documentation, can be used as physical chemistry/computational chemistry class materials)
 
-5. Basis Sets (Hats off to the masterminds of quantum chemistry such as Dr. John Slater for his simple and elegant rules for core-hole excited states; Hats off to 
+5.Basis Sets (Hats off to the masterminds of quantum chemistry such as Dr. John Slater for his simple and elegant rules for core-hole excited states; Hats off to 
 Dr. Thom Dunning et.al, who constructed the corelation consistent basis sets for ground state calculations. The CHEX(core-hole exicted states) basis set is largely 
 inspired from these natural orbital based correlation consistent basis. We have shown that these CHEX basis sets work remarkably well for core-hole excited states 
 Binding Energy (XPS) calculations, and/or core-ionization potentials [ref]. Used together with delta SCF calculation, these basis sets were able to resolve decades 
