@@ -2,7 +2,7 @@
 
 Welcome! Glad to hear that you are interested in learning how to construct Core-hole Excited States Basis sets!
 
-This page is created as an open-source supplementary material for publication XXXXXXXXXXXXXXXXXXXXXXX. Please kindly cite/credit us if you are using any of the code or data here ：-）
+This page is created as an open-source supplementary material for publication XXXXXXXXXXXXXXXXXXXXXXX. Please kindly cite/credit us if you are using our code or data here ：-）
 
 
 The project is divided into the following folders:
